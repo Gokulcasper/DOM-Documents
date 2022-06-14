@@ -11,3 +11,5 @@ console.dir(document);
 let myDoc = document;
 document.body.children[0].children[0].innerText =
   "Learn HTML DOM in JAVASCRIPT";
+
+console.log(window.find("HTML DOM"));
